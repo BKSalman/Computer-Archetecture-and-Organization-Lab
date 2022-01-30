@@ -1,4 +1,4 @@
-# 4.2 WAP to perform addition & subtraction on user generated values and print the result
+# 4.3 WAP to perform addition & subtraction & multiply & divide on user generated values and print the result
 
 li $v0,5 # read an integer from user
 syscall
